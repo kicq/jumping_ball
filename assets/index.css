@@ -1,0 +1,10 @@
+.rect {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #14b63748;
+  transition: 0.4s;
+  border-radius: 100%;
+  border: 1px solid rgba(151, 151, 151, 0.329);
+  box-shadow: 2px 2px 5px 0px #969696;
+}
