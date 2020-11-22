@@ -12,7 +12,7 @@ document.addEventListener('click', (evt) => {
       el.style.background = `rgb(${color*2}, ${color2*2}, ${color3*2})`
     },410)
     
-    
+    //по клику перемещаем в рандомное место
   }
 })
 
